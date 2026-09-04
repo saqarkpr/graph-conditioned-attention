@@ -5,8 +5,6 @@ that makes it more than a static bias term — lets the model *rewrite that
 graph* at every layer, re-estimating it from its own representations as depth
 increases.
 
-📄 **[Technical report (PDF)](report.pdf)** — 4–5 pages: full experimental detail, statistics, and limitations.
-
 **Central question:** is a Transformer better off being handed a wrong
 structural hypothesis it can correct, than being handed no structure at all?
 
